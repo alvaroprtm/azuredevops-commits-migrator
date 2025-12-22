@@ -1413,3 +1413,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-19 11:06:00_ **[Plato] Merged PR 1702: feat: Conditional Rounding in Overtime Calculation #3958** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/2af1d6f302877b0b4d48897396af24f95bddd392))
 
+### _2025-12-22 09:12:00_ **[HRMSPayrollUI] Merged PR 393: PR: build v10.1.23** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1df14e0742a5e5c2d4adeb9ad435c21af1505b5b))
+
