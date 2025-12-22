@@ -5275,3 +5275,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-03 08:07:00_ **[Plato] Merged PR 1814: PR: Pending transfer, tasklist, overtime request report, and overtime bulk for kankei mobile** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/57f8a8ccbfb3f5b2ef5090c80765e382be5de5e0))
 
+### _2025-12-22 09:12:00_ **[HRMSPayrollUI] Merged PR 393: PR: build v10.1.23** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1df14e0742a5e5c2d4adeb9ad435c21af1505b5b))
+
