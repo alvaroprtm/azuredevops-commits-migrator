@@ -49,4 +49,5 @@ user settings (in your project right top) -> Personal access tokens -> New token
 ## For the TRACKER_REPO
 For this repo you can choose private or public as you want. But this default branch name should be `master`
 
-<!-- Written by [Iwan Li](https://github.com/Iwan-LMX) -->
+<!-- Written by [Iwan Li](https://github.com/Iwan-LMX) -->### _2025-12-22 09:12:00_ **[HRMSPayrollUI] Merged PR 393: PR: build v10.1.23** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1df14e0742a5e5c2d4adeb9ad435c21af1505b5b))
+
