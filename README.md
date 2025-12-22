@@ -7693,3 +7693,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-13 02:07:00_ **[Plato] Merged PR 1872: feat: Reimbursement Report Enhancement** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/18b6baf8943a8dbc707080d5e3eee3abf89d1c86))
 
+### _2025-12-22 09:12:00_ **[HRMSPayrollUI] Merged PR 393: PR: build v10.1.23** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1df14e0742a5e5c2d4adeb9ad435c21af1505b5b))
+
