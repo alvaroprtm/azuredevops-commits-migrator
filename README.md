@@ -2239,3 +2239,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-12-23 03:12:00_ **[HRMSPayrollUI] Merged PR 394: PR: build v10.1.23** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/03f5d310d51d699d692b37f126987e761353587b))
 
+### _2025-12-23 03:12:00_ **[HRMSPayrollUI] Merged PR 396: PR: Remove JQuery 89 files** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/30e12a44b011bdd662822cc052ef5f477dd006b0))
+
