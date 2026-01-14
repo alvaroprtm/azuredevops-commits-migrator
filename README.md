@@ -8991,3 +8991,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-13 09:01:00_ **[HRMSPayrollUI] Merged PR 462: PR: Bug Fixes Following Pentest Remediation** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/f5e5b5ff6b0cf5572c3a000037fa9112c69c9c4e))
 
+### _2026-01-14 11:01:00_ **[HRMSPayrollUI] Merged PR 470: PR: Pentest Bug Fixes in Payroll Menu** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/6b3dfb94c59f5349af18580a7007a594251ffe69))
+
