@@ -617,3 +617,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-14 14:01:00_ **[HRMSPayrollUI] Merged PR 472: PR: build v10.1.34** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/53b960a16bdbee33286b760ebf3b236047a91627))
 
+### _2026-01-15 07:01:00_ **[HRMSPayrollUI] Merged PR 481: PR: Fix Custom Modal Titles in Organization Administration Menu** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/e8cacd0e391e8923957f9d4e10c373c39d105845))
+
