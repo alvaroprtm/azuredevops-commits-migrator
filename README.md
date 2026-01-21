@@ -4751,3 +4751,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-19 09:01:00_ **[HRMSPayrollUI] Merged PR 496: PR: Refactor Telerik Report into a React component** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1136f436ed053fb96ac882bb3eb7f197ae21254c))
 
+### _2026-01-21 03:01:00_ **[HRMSPayrollUI] Merged PR 512: PR: build v10.1.37** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a6bb3d6d9758a5ebfeb69675e9f8244930462c7a))
+
