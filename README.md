@@ -6475,3 +6475,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-28 10:01:00_ **[HRMSPayrollUI] Merged PR 552: PR: build v10.1.42** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/e7c9e0a610ea86a4c5ec1b4722663a3d7317e108))
 
+### _2026-01-28 13:01:00_ **[HRMSPayrollUI] Merged PR 553: PR: Pentest JQuery Bug Fixes in Performance, Talent, and Attendance Modules** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/382a92288fdba670e2f7b7eb96bcba97fddcbf7e))
+
