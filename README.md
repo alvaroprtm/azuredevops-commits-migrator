@@ -2289,3 +2289,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-29 07:01:00_ **[HRMSPayrollUI] Merged PR 560: PR: import absence and schedule in system administration bug fix** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/1bcb6ab75c3887e2c70eff9c7ccdf86ea4d881b1))
 
+### _2026-01-29 10:01:00_ **[HRMSPayrollUI] Merged PR 562: PR: overtime request to-do list time input validations** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/5fc4f7360d31ea1d7f019e62e40bc7c5ad04592b))
+
