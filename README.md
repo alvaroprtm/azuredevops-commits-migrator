@@ -6175,3 +6175,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-02-09 05:02:00_ **[HRMSPayrollUI] Merged PR 665: PR: JQuery bug** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/bc450de2a8734445d7717b7a10d72a3d41c86725))
 
+### _2026-02-11 04:02:00_ **[Eproc] Merged PR 680: PR: initial commit of adding contract management module** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/91ad4a837922e28440985591eb5c9d35bc2632d2))
+
