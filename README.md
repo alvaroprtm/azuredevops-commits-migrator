@@ -1479,3 +1479,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-02-11 04:02:00_ **[Eproc] Merged PR 680: PR: initial commit of adding contract management module** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/91ad4a837922e28440985591eb5c9d35bc2632d2))
 
+### _2026-02-11 05:02:00_ **[HRMSPayrollUI] Merged PR 685: PR: Payslip Report Definition Bug** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/8ced692718247da6a935a9f29afce8db6b7275f4))
+
