@@ -121,3 +121,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-02-13 10:02:00_ **[HRMSPayrollUI] Merged PR 732: PR: build v10.2.3** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/d0efec4d53a26b3eb1f0465fa26f1f3d69ab2d3f))
 
+### _2026-02-18 07:02:00_ **[Eproc] Merged PR 764: PR: Add Vendor Evaluation Module and Refactor Contract Form** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/7bfc157f3d8428c88954cbd670e00d3c7d725946))
+
