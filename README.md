@@ -679,3 +679,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-02-26 08:02:00_ **[Eproc] Merged PR 841: PR: Notification Settings on NavBar** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/6cdfb0baf606d4e97bb07688a936f7136edf881a))
 
+### _2026-02-26 09:02:00_ **[HRMSPayrollUI] Merged PR 842: PR: build v10.2.8** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a0d4e5a7371fd340314131e33aa3e9fa4b07ca6e))
+
