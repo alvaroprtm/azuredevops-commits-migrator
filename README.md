@@ -421,3 +421,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-02 06:03:00_ **[Eproc] Merged PR 878: PR: Vendor Dashboard API Integration** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/140a1896c78d7489fc1137e9371978e446e94577))
 
+### _2026-03-02 14:03:00_ **[HRMSPayrollUI] Merged PR 883: PR: build v10.2.14** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/bc6b5ed8395e7f7c164f746d56a5032824d634d2))
+
