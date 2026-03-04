@@ -1245,3 +1245,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-03 10:03:00_ **[HRMSPayrollUI] Merged PR 896: PR: build v10.2.16** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/0a1ea489960c4b3b459ea73e5d1ff49e15cc78a6))
 
+### _2026-03-04 08:03:00_ **[eprocapi] Merged PR 900: Feat: New Negotiation Winners API and isTemplate field in Vendor Performance Detail** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/5baf2d8150283df8a9782cf403adbac32891658e))
+
