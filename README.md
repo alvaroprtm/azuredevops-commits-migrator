@@ -8121,3 +8121,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-04 10:03:00_ **[Eproc] Merged PR 904: PR: Contract Management and Vendor Evaluation Form** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/a34ff5b9d8870ba546c2483f829a08f7e62364de))
 
+### _2026-03-05 05:03:00_ **[eprocapi] Merged PR 906: feat: Enrich Tender Negotiation Winners API Response with Tender Data** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/40a036098fbaa093727964cff04e6808d4658d58))
+
