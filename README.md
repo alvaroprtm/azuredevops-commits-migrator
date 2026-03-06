@@ -2623,3 +2623,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-05 05:03:00_ **[eprocapi] Merged PR 906: feat: Enrich Tender Negotiation Winners API Response with Tender Data** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/40a036098fbaa093727964cff04e6808d4658d58))
 
+### _2026-03-06 09:03:00_ **[eprocapi] Merged PR 917: feat: Performance Template Lines API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/569a725a4c3a10b95d80cbf00151c8101e6046a0))
+
