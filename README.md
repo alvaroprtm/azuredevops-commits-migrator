@@ -4833,3 +4833,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-06 09:03:00_ **[eprocapi] Merged PR 917: feat: Performance Template Lines API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/569a725a4c3a10b95d80cbf00151c8101e6046a0))
 
+### _2026-03-09 09:03:00_ **[eprocapi] Merged PR 931: PR: Vendor Performance Evaluation Email Feature** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/160cd672ff9897cdc4b779232dde97c391914068))
+
