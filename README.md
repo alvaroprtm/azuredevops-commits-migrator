@@ -2907,3 +2907,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-10 14:03:00_ **[eprocapi] Merged PR 945: feat: Questionnaire Token isUsed and Update Performance Template Lines** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/766cabdbfd4c7f315ebf1c72469b2228b02316b4))
 
+### _2026-03-11 10:03:00_ **[Eproc] Merged PR 954: PR: Contract and Vendor Performance Evaluation** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/6fa83f8ecc8a76da24ee7a1b8bfe134707374a23))
+
