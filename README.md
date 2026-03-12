@@ -3739,3 +3739,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-11 19:03:00_ **[eprocapi] Merged PR 953: feat: Update Vendor Tender Contract Status API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/ca055dc7915c0130d68c68e39712e47a38a4c326))
 
+### _2026-03-12 09:03:00_ **[eprocapi] Merged PR 966: feat: Scoring Table and Lines CRUD API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/0846cd93f0098f19b9afa81e9c25c3c72a883456))
+
