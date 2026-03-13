@@ -6239,3 +6239,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-12 11:03:00_ **[Eproc] Merged PR 967: feat: Scoring Template Menu** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/9261e50781a9051eeee19d026a3cb846b93d1149))
 
+### _2026-03-13 10:03:00_ **[eprocapi] Merged PR 976: fix: scoring template table and lines update functionality API** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/eprocapi/commit/f60652dfd7f00f235d97030bb4f58d3139b6a63b))
+
