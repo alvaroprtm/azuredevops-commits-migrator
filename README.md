@@ -5685,3 +5685,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-13 10:03:00_ **[Eproc] Merged PR 977: feat: Scoring Template Lines Form** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/38fd58d17f5ddd60904ae5c2de58bdc1ddf352af))
 
+### _2026-03-16 09:03:00_ **[Plato] Merged PR 991: feat: New Default Month Column in HcmContractTerms** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/ac2a5aa92b805367cf2790f4a845d82c6c6e4fc5))
+
