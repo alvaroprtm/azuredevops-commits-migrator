@@ -1553,3 +1553,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-25 13:03:00_ **[Plato] Merged PR 1014: feat: Add Overtime Request Form field in absenceparameter table** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/f2158d5bc5d3d470a4515e4d7258770fb3aeaa96))
 
+### _2026-03-26 04:03:00_ **[HRMSPayrollUI] Merged PR 1026: PR: build v10.2.22** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/30acc4d750aaa12586ca66336ab17e05e573857b))
+
