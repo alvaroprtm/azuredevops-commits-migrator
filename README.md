@@ -9129,3 +9129,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-03-31 11:03:00_ **[HRMSPayrollUI] Merged PR 1078: PR: build v10.2.32** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/920220e4592d43f351937f809e6ca06c91bc91da))
 
+### _2026-03-31 15:03:00_ **[HRMSPayrollUI] Merged PR 1083: PR: Overtime Request Delete Bug** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/f09bf23bae1b0b82daae2a87e0cc717db837ab31))
+
