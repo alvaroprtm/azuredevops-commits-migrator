@@ -5161,3 +5161,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-04-06 04:04:00_ **[HRMSPayrollUI] Merged PR 1117: fix: reference error in worker action detail #3783** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/edf776b92c1d0cbbd67e0540cf606ee29b98ae80))
 
+### _2026-04-06 10:04:00_ **[HRMSPayrollUI] Merged PR 1118: PR: build v10.2.36** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a59b9b85d73cb5f1d96de76ed55621acb57e17eb))
+
