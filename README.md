@@ -6009,3 +6009,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-04-15 07:04:00_ **[Plato] Merged PR 1227: fix: insert update absence status detail API #3832** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/dcbc0cef49b7a26d326e9251ecd4cefe292e196d))
 
+### _2026-04-15 08:04:00_ **[Plato] Merged PR 1228: fix: add absence status detail issue #3836** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/0d6df4f12f7fa7df608128690a4af306de9d608d))
+
