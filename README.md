@@ -6931,3 +6931,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-04-17 07:04:00_ **[Plato] Merged PR 1275: feat: OTFormType in tmotrequest Insert Payload #3380** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/b0a9f0a91e2239861e74179e8c4431eefc182788))
 
+### _2026-04-17 07:04:00_ **[Plato] Merged PR 1279: feat: GetOTClassificationFormByReqNumber Implementation #3380** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/edd1049aca968cdc89cfa99debca23e840067535))
+
