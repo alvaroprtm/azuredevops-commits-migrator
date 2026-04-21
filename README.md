@@ -2431,3 +2431,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-04-20 11:04:00_ **[HRMSPayrollUI] Merged PR 1320: PR: build v10.3.5** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/40f6ef8ab68d55e69d8b2c09f95db6791c962086))
 
+### _2026-04-21 20:04:00_ **[Eproc] Merged PR 1353: feat: Vendor Evaluation Result Summary and Modal Upload Document with History** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/abbf8a08b7d766007557ec1b6728b2733565862e))
+
