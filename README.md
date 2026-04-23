@@ -4367,3 +4367,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-04-22 05:04:00_ **[Eproc] Merged PR 1368: feat:  Vendor Contract Page and Evaluation Template Lookup** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/117db36647dbb6207eaeeab06d71bf730089a1d0))
 
+### _2026-04-23 04:04:00_ **[Eproc] Merged PR 1375: Vendor Evaluation Section and Reviewer Participation** ([link](https://dev.azure.com/WCSProdDevelopment/Eproc/_git/Eproc/commit/b0cbdc9e951c2d5ccdebe21d2df617fae245f6b0))
+
