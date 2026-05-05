@@ -4097,3 +4097,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-04-27 04:04:00_ **[HRMSPayrollUI] Merged PR 1398: PR: Fix Cherry Picking Issues** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/fbc19d384e33f4085142107acb44e30f06e8e4b7))
 
+### _2026-05-05 10:05:00_ **[Plato] Merged PR 1431: PR: Overtime Bulk Request** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/71b75ea274cab7d12e36708ba48dea7c1769c1a7))
+
