@@ -4375,3 +4375,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-05 10:05:00_ **[Plato] Merged PR 1431: PR: Overtime Bulk Request** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/71b75ea274cab7d12e36708ba48dea7c1769c1a7))
 
+### _2026-05-07 17:05:00_ **[Plato] Merged PR 1444: feat: enhanced OT bulk request #3864** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/9480a9e6fb17d613dcb3d498a731611298a355a9))
+
