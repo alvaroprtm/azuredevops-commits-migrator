@@ -8227,3 +8227,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-12 04:05:00_ **[Plato] Merged PR 1474: refactor: disabled halfday emergency leave request validation** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/c58391293c0b4bccaa41d86ff5f2056261a4f48d))
 
+### _2026-05-17 08:05:00_ **[Plato] Merged PR 1492: PR: Update DayType on OT Request Approval #3864** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/6df5f8813ec0aaa48cd7df8ba2e4450530a17e04))
+
