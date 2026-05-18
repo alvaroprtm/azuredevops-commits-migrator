@@ -4939,3 +4939,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-18 03:05:00_ **[HRMSPayrollUI] Merged PR 1498: build v11.0.12** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/44a2169853a0f316dad8e0067dc32b0a53915aec))
 
+### _2026-05-18 10:05:00_ **[Plato] Merged PR 1502: feat: Update daytype on workflow approval for OT bulk request and attendance correction** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/1c1a375def7e74e96c9d2e3e2193e4bc3f540301))
+
