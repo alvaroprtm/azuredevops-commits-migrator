@@ -285,3 +285,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-25 08:05:00_ **[Plato] Merged PR 1530: feat: Reprocess attendance transaction by hitting GenerateWoowtimeAbsence** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/ff326258d97139dfcc5b337d604d80f05f3848d1))
 
+### _2026-05-25 10:05:00_ **[HRMSPayrollUI] Merged PR 1546: PR: build v11.0.26** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/0438a2a581f9a586479df37d7e04944c2f7cf7c8))
+
