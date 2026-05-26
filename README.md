@@ -4959,3 +4959,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-26 05:05:00_ **[HRMSPayrollUI] Merged PR 1549: PR: build v11.0.27** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/e6c439787da1005a33025acfdfc74cef920f371b))
 
+### _2026-05-26 18:05:00_ **[Plato] Merged PR 1551: feat: update schedule handling and bulk request validations in overtimebulkrequestmanager** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/460d786cfba1febb943bc61a6f39cd33d7cfa8ad))
+
