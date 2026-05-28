@@ -1111,3 +1111,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-27 01:05:00_ **[HRMSPayrollUI] Merged PR 1553: PR: build v11.0.29** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a04731344e20abfff0a0f4fbc701cceac1dbff4e))
 
+### _2026-05-28 02:05:00_ **[Plato] Merged PR 1555: feat: replace schedule validation with timeplan validation and add worker data to bulk headers** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/7d679de3f03e2dc7a56db25e35b35a9affcae3b2))
+
