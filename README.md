@@ -297,3 +297,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-28 02:05:00_ **[Plato] Merged PR 1555: feat: replace schedule validation with timeplan validation and add worker data to bulk headers** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/7d679de3f03e2dc7a56db25e35b35a9affcae3b2))
 
+### _2026-05-28 03:05:00_ **[Plato] Merged PR 1558: fix: IAbsenceEngineService wasn't registered in Plato.Service.Kankei.Api's DI container** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/1ed6f3c1bd96ae0e4ad7d3f0e9bf4db6bf2122ae))
+
