@@ -2761,3 +2761,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-28 03:05:00_ **[Plato] Merged PR 1558: fix: IAbsenceEngineService wasn't registered in Plato.Service.Kankei.Api's DI container** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/1ed6f3c1bd96ae0e4ad7d3f0e9bf4db6bf2122ae))
 
+### _2026-05-29 13:05:00_ **[Plato] Merged PR 1561: fix: attendance correction approval workflow** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/29a2ea24293e8436e0dfd36f71a485570e2f8b2b))
+
