@@ -6375,3 +6375,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-04 08:06:00_ **[Plato] Merged PR 1595: Fix InsertUpdateAbsenceCorrection API and Dominos UAT Features** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/67e37a5c76551630f804abc3e5dcdf65d4bdfda7))
 
+### _2026-06-04 09:06:00_ **[HRMSPayrollUI] Merged PR 1596: PR: build v11.1.8** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/72de8365214cfe302ae27ad8532891de90d74576))
+
