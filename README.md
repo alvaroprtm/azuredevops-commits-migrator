@@ -7003,3 +7003,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-02 13:06:00_ **[HRMSPayrollUI] Merged PR 1575: PR: build v11.1.7** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/2ccec12196f63495d0a37d335cf8717d4d35a805))
 
+### _2026-06-04 04:06:00_ **[Plato] Merged PR 1593: fix; Report API Errors** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/ef05dc3826d7cc1a8dc22008d6fc3175b368744a))
+
