@@ -6381,3 +6381,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-04 09:06:00_ **[HRMSPayrollUI] Merged PR 1600: PR: build v11.1.8** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/6e595d3352cb9981037e3ab785a779780320ec9d))
 
+### _2026-06-05 14:06:00_ **[HRMSPayrollUI] Merged PR 1608: PR: build v11.1.10** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a3b0c8deb598fc9c83f8a4decda97bd40f587eeb))
+
