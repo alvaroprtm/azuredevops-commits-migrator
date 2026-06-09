@@ -8603,3 +8603,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-05 14:06:00_ **[HRMSPayrollUI] Merged PR 1608: PR: build v11.1.10** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/a3b0c8deb598fc9c83f8a4decda97bd40f587eeb))
 
+### _2026-06-09 07:06:00_ **[Plato] Merged PR 1622: PR: Add missing working daytype in tmworkerattendancetrans, revert GenerateWoowtimeAbsence and fix task list template** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/f6e95cad606ce95e28526ac57c9501764f4bfecd))
+
