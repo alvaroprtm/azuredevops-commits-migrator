@@ -1405,3 +1405,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-09 07:06:00_ **[Plato] Merged PR 1622: PR: Add missing working daytype in tmworkerattendancetrans, revert GenerateWoowtimeAbsence and fix task list template** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/f6e95cad606ce95e28526ac57c9501764f4bfecd))
 
+### _2026-06-09 12:06:00_ **[Plato] Merged PR 1628: fix: offboarding termination and last day work date filter to 0** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/b556efddaccea3d883177ba15068a8fb5f489d43))
+
