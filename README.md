@@ -4155,3 +4155,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-04 08:06:00_ **[Plato] Merged PR 1595: Fix InsertUpdateAbsenceCorrection API and Dominos UAT Features** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/67e37a5c76551630f804abc3e5dcdf65d4bdfda7))
 
+### _2026-06-09 07:06:00_ **[Plato] Merged PR 1622: PR: Add missing working daytype in tmworkerattendancetrans, revert GenerateWoowtimeAbsence and fix task list template** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/f6e95cad606ce95e28526ac57c9501764f4bfecd))
+
