@@ -7971,3 +7971,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-09 12:06:00_ **[Plato] Merged PR 1628: fix: offboarding termination and last day work date filter to 0** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/b556efddaccea3d883177ba15068a8fb5f489d43))
 
+### _2026-06-10 10:06:00_ **[HRMSPayrollUI] Merged PR 1630: PR: build v11.1.14** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/50397b1ecc45454a8b295818cc9a9578a39af1a1))
+
