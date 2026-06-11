@@ -591,3 +591,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-11 04:06:00_ **[Plato] Merged PR 1632: PR: backfill worker and workerdatahistory on absence correction lines #3888** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/165877e862a73738ef226a29f1a2de5e1aead327))
 
+### _2026-06-11 09:06:00_ **[Plato] Merged PR 1639: feat: Combined same-worker/same-date overtime calculations into one row with summed totals and joined OTReqNumbers in CalculateOvertime #3379** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/dc479cdb91279c0ca9ee7d714a5eb5b3721102ef))
+
