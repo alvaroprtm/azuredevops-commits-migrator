@@ -4439,3 +4439,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-11 09:06:00_ **[Plato] Merged PR 1639: feat: Combined same-worker/same-date overtime calculations into one row with summed totals and joined OTReqNumbers in CalculateOvertime #3379** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/dc479cdb91279c0ca9ee7d714a5eb5b3721102ef))
 
+### _2026-06-19 11:06:00_ **[Plato] Merged PR 1702: feat: Conditional Rounding in Overtime Calculation #3958** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/2af1d6f302877b0b4d48897396af24f95bddd392))
+
