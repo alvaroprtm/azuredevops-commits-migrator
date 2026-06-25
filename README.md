@@ -8307,3 +8307,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-23 10:06:00_ **[HRMSPayrollUI] Merged PR 1731: PR: build v11.1.24** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/HRMSPayrollUI/commit/4a902818330265fc4931810cfa325ede83f2b4fa))
 
+### _2026-06-25 04:06:00_ **[Plato] Merged PR 1743: PR: Rehire, OT Calculation Conditional Rounding, Secondary Position, Bug Fixes** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/1b0df5a6f24c2c8a441565d680526a030ed7f7c4))
+
