@@ -2509,3 +2509,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-19 11:06:00_ **[Plato] Merged PR 1702: feat: Conditional Rounding in Overtime Calculation #3958** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/2af1d6f302877b0b4d48897396af24f95bddd392))
 
+### _2026-06-25 04:06:00_ **[Plato] Merged PR 1743: PR: Rehire, OT Calculation Conditional Rounding, Secondary Position, Bug Fixes** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/1b0df5a6f24c2c8a441565d680526a030ed7f7c4))
+
