@@ -5273,3 +5273,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-25 04:06:00_ **[Plato] Merged PR 1743: PR: Rehire, OT Calculation Conditional Rounding, Secondary Position, Bug Fixes** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/1b0df5a6f24c2c8a441565d680526a030ed7f7c4))
 
+### _2026-07-03 08:07:00_ **[Plato] Merged PR 1814: PR: Pending transfer, tasklist, overtime request report, and overtime bulk for kankei mobile** ([link](https://dev.azure.com/WCSProdDevelopment/HRMS%20Payroll/_git/Plato/commit/57f8a8ccbfb3f5b2ef5090c80765e382be5de5e0))
+
